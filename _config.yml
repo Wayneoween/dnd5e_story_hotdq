@@ -10,7 +10,7 @@ author: m_sc
 twitter_username: Wayneoween
 github_username: Wayneoween
 
-#remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
+permalink: /:title/
 
 # Build settings
 markdown: kramdown
