@@ -1,7 +1,7 @@
 title: The F* Five!
 email: hotdq+dnd@cle.ar.it
 description: >- # this means to ignore newlines until "baseurl:"
-  Checking out some dragons. And those undead over there.
+  Checking out some dragons. And those undead over there. Also banging some doors.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hotdq.dndaux.de" # the base hostname & protocol for your site, e.g. http://example.comemail:              your-email@example.com
 author: m_sc
@@ -19,3 +19,9 @@ plugins:
 
   # https://codepen.io/yoannhel/pen/sJpDj
   # This needs to be done! :-)
+
+collections:
+  glossary:
+    output: false
+  quests:
+    output: false
