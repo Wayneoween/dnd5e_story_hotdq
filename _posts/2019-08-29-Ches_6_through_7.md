@@ -8,18 +8,18 @@ background: "/img/posts/ches.jpg"
 
 ### 6th of Ches - Cultist camp
 
-We did some things, fought some bad guys and killed the *Black Spider*!
+We did some things, fought some bad guys and killed the {% include glossary_link.html title="Black Spider" %}!
 
 Destroyed two dragon eggs. It felt very bad. We, or at least *Shan* and I felt
 that way because we didn’t want to kill the Guard Drakes, but there was no
 other way.
 
 The greater good is to stop the revival of the five headed chromatic dragon
-*Tiamat*.
+*{% include glossary_link.html title="Tiamat" %}*.
 
 And apparently _we_ need to stop that from happening. We decided not to
 take another closer look after that Roper.
 
 ### 7th of Ches - Travel
 
-We make our way to Longsaddle.
+We make our way to {% include glossary_link.html title="Longsaddle" %}.

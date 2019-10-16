@@ -1,5 +1,4 @@
 ---
-title: Harpers
 type: Faction
 ---
 

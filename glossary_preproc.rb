@@ -11,7 +11,7 @@ require 'front_matter_parser'
 require 'yaml'
 require 'active_support/core_ext/string/inflections'
 
-DEBUG = false
+DEBUG = true
 
 # just one glossary item
 class GlossaryItem
