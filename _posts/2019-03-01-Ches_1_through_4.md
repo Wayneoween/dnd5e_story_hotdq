@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "A new month: Ches!"
+title: 'A new month: Ches!'
 author: Posmet
-excerpt: "Spring is here! Some travelling north, tracking cultists."
+excerpt: Spring is here! Some travelling north, tracking cultists.
 background: "/img/posts/ches.jpg"
 ---
 

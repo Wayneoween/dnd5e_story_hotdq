@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Ches: 6th and 7th"
+title: 'Ches: 6th and 7th'
 author: Posmet
-excerpt: "Black Spider no more! Also Drakes and Kobolds."
+excerpt: Black Spider no more! Also Drakes and Kobolds.
 background: "/img/posts/ches.jpg"
 ---
 

@@ -4,3 +4,12 @@
 @import "styles";
 @import "custom.css";
 @import 'font-awesome.min.css';
+
+.glossary-item {
+  h3, h4 {
+    display: inline;
+  }
+  h4 {
+    color: grey;
+  }
+}
