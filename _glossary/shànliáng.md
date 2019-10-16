@@ -4,3 +4,9 @@ type: Person
 ...
 
 She is a gnome and the best friend of *Shan*.
+
+<img
+  src='/img/friends/shanliang.png'
+  style='width:35%;
+         margin-left: 1rem;
+         margin-bottom: 1rem;'/>
