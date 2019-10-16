@@ -8,9 +8,10 @@ export TIMESTAMP
 
 define PRAEAMBLE
 ---
-title: "Title"
-image: ""
-excerpt: ""
+layout: post
+title: ""
+author: Posmet
+background: ""
 ---
 
 endef
