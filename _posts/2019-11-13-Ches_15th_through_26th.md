@@ -10,14 +10,14 @@ background: "/img/posts/ches.jpg"
 
 We were heading on with the caravan, when we noticed a head on the road - well
 more like a man buried up to his head. He had a sign saying *Oathbreaker* on
-him. Fynn woke him up and asked about his story, which the man recounted as
+him. {% include glossary_link.html title="Fynn" %} woke him up and asked about his story, which the man recounted as
 having tried to snug out before his wedding and the father of the bride doing
 this. The group was not sure whether to help him which possibly meant risk losing the
-caravan, so time was of the essence! Shan used his earthquake spell, but the
-poor man was still stuck, just a bit more shaken. Thoredim decided to dig,
-while Kaiya started putting flowers around him. When one arm was freed, Posmet
+caravan, so time was of the essence! {% include glossary_link.html title="Shan" %} used his earthquake spell, but the
+poor man was still stuck, just a bit more shaken. {% include glossary_link.html title="Thoredim" %} decided to dig,
+while Kaiya started putting flowers around him. When one arm was freed, {% include glossary_link.html title="Posmet" %}
 gave him a stick and one Ration, so he could do the rest, in exchangewe learned
-his name *Carlon Amufel*. Fynn, Shan and Kaiya dug him out after all, and he
+his name *Carlon Amufel*. Fynn, {% include glossary_link.html title="Shan" %} and Kaiya dug him out after all, and he
 confessed that he actually followed the last caravan because of some
 "suspicious people" in it. He is one of the harpers, tasked to follow them.
 Unfortunately, they caught him in Westbridge and buried him - a harpers symbol
@@ -35,7 +35,7 @@ about "being fair to everyone".
 At breakfast, Jemna grabbed Thoredims bowl and produces a curled up piece of
 bone from its contents, which was probably planted by the cultists, she
 explains. Still unsure about her motifs, the group wonders if Jemna herself may
-have planted it there? To get peace of mind, Thoredim asked Jemna to agree to
+have planted it there? To get peace of mind, {% include glossary_link.html title="Thoredim" %} asked Jemna to agree to
 step into a "Zone of Truth" cast by him and answer some questions. After some
 questioning, the group was convinced her motifs are true, she really is driven
 by stopping the cultists. She is part of a cult but refused mentioning its

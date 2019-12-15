@@ -10,7 +10,7 @@ background: "/img/posts/ches.jpg"
 
 We did some things, fought some bad guys and killed the {% include glossary_link.html title="Black Spider" %}!
 
-Destroyed two dragon eggs. It felt very bad. We, or at least *Shan* and I felt
+Destroyed two dragon eggs. It felt very bad. We, or at least *{% include glossary_link.html title="Shan" %}* and I felt
 that way because we didn’t want to kill the Guard Drakes, but there was no
 other way.
 
