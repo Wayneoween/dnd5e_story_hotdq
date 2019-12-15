@@ -12,7 +12,7 @@ type: Faction
 
 Many paladins and clerics of Tyr, Helm, Torm, and Hoar have joined the
 organization, seeing it as—finally!—a way of making common cause against the
-evils abroad in the world. The Order of the Gauntlet is ready to lash out the
+evils abroad in the world. The {% include glossary_link.html title="Order of the Gauntlet" %} is ready to lash out the
 moment evil acts, and not a moment before. When evil breaks laws, agreements,
 or commonly accepted codes of conduct, the Gauntlet strikes hard and fast,
 without waiting for the blessings of distant temples or the permission of

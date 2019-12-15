@@ -2,7 +2,7 @@
 title: Black Spider
 type: Person
 icon: person_dead
-...
+---
 
 Dragonborn. Enemy of our group!
 

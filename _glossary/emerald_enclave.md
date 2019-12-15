@@ -10,13 +10,13 @@ type: Faction
          margin-left: 1rem;
          margin-bottom: 1rem;'/>
 
-The Emerald Enclave is a far-ranging group that opposes threats to the natural
+The {% include glossary_link.html title="Emerald Enclave" %} is a far-ranging group that opposes threats to the natural
 world and helps others survive the many perils of the wild. A ranger might be
 hired to lead a caravan through a treacherous mountain pass or the frozen
 tundra of Icewind Dale. A druid might volunteer to help a small village
 prepare for a long, brutal winter. Barbarians and witches who live like
 hermits most of the year might defend a town against marauding orcs or
-barbarians. Members of the Emerald Enclave know how to survive, and more
+barbarians. Members of the {% include glossary_link.html title="Emerald Enclave" %} know how to survive, and more
 importantly, they want to help others do the same. They are not opposed to
 civilization or progress, but they strive to prevent civilization and the
 wilderness from destroying one another.

@@ -9,13 +9,13 @@ type: Faction
          margin-left: 1rem;
          margin-bottom: 1rem;'/>
 
-The Harpers is an old organization that has risen, been shattered, and risen
+The {% include glossary_link.html title="Harpers" %} is an old organization that has risen, been shattered, and risen
 again several times. Its longevity and resilience are largely due to its
 decentralized, grassroots, secretive nature, and the near-autonomy of many of
-its members. The Harpers have “cells” and lone operatives throughout Faerûn,
+its members. The {% include glossary_link.html title="Harpers" %} have “cells” and lone operatives throughout Faerûn,
 although they interact and share information with one another from time to
-time as needs warrant. The Harpers' ideology is noble, and its members pride
-themselves on their integrity and incorruptibility. Harpers do not seek power
+time as needs warrant. The {% include glossary_link.html title="Harpers" %}' ideology is noble, and its members pride
+themselves on their integrity and incorruptibility. {% include glossary_link.html title="Harpers" %} do not seek power
 or glory, only fair and equal treatment for all.
 
 #### Beliefs

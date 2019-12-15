@@ -12,7 +12,7 @@ type: Faction
 
 The Lords’ Alliance is a coalition of rulers from cities and towns across
 Faerûn (primarily in the North), who collectively agree that some solidarity
-is needed to keep evil at bay. The rulers of Waterdeep, Silverymoon,
+is needed to keep evil at bay. The rulers of {% include glossary_link.html title="Waterdeep" %}, Silverymoon,
 Neverwinter, and other free cities in the region dominate the Alliance, and
 every lord in the Alliance works for the fate and fortune of his or her own
 settlement above all others. The agents of the Alliance include sophisticated
