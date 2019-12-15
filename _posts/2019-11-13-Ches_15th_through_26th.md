@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ches the 15th through 26th
+title: Ches 15th through 26th
 author: Thoredim
 excerpt: From Westbridge to Waterdeep.
 background: "/img/posts/ches.jpg"
