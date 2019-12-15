@@ -17,16 +17,16 @@ caravan, so time was of the essence! {% include glossary_link.html title="Shan" 
 poor man was still stuck, just a bit more shaken. {% include glossary_link.html title="Thoredim" %} decided to dig,
 while Kaiya started putting flowers around him. When one arm was freed, {% include glossary_link.html title="Posmet" %}
 gave him a stick and one Ration, so he could do the rest, in exchangewe learned
-his name *Carlon Amufel*. Fynn, {% include glossary_link.html title="Shan" %} and Kaiya dug him out after all, and he
+his name *Carlon Amufel*. Fynn, {% include glossary_link.html title="Shan" %} and {% include glossary_link.html title="Kaiya" %} dug him out after all, and he
 confessed that he actually followed the last caravan because of some
 "suspicious people" in it. He is one of the harpers, tasked to follow them.
 Unfortunately, they caught him in Westbridge and buried him - a harpers symbol
 tattooed on his arm confirms this story.
 
-In the eveing, Kaiya talked to Carlon a bit more and found out that there is
+In the eveing, {% include glossary_link.html title="Kaiya" %} talked to Carlon a bit more and found out that there is
 one dragon mask for each type of chromatic dragon. Carlon followed the supposed
 cultists since *Flint Rock*, which was a town the cultists raided. He now plans
-to meet up with his fellows in waterdeep. Kaiya briefly inquired deeper into
+to meet up with his fellows in waterdeep. {% include glossary_link.html title="Kaiya" %} briefly inquired deeper into
 the {% include glossary_link.html title="Harpers" %}, then quickly lost interest when hearing about their principle
 about "being fair to everyone".
 
