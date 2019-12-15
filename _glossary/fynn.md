@@ -1,9 +1,6 @@
---- {}
----
-
 ---
 type: Person
-...
+---
 
 A halfing boy, versed with words, bagpipes and pans and magic.
 

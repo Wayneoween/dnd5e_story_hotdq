@@ -1,9 +1,6 @@
---- {}
----
-
 ---
 type: Person
-...
+---
 
 A voluminous Firbolg monk who has still a lot of stairs to climb. Literally as
 well as figuratively.

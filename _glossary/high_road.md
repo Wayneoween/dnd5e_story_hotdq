@@ -1,10 +1,7 @@
---- {}
----
-
 ---
 title: {% include glossary_link.html title="High Road" %}
 type: Road
-...
+---
 
 This well-traveled highway follows the coast from Luskan to {% include glossary_link.html title="Waterdeep" %},
 connecting with Neverwinter along the way. For years, the stretch of the High
