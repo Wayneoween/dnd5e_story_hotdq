@@ -1,5 +1,5 @@
 ---
-title: {% include glossary_link.html title="High Road" %}
+title: High Road
 type: Road
 ---
 
