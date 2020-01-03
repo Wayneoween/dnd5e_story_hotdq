@@ -2,6 +2,7 @@
 layout: post
 title: Ches 27th through Tarsakh 7th
 author: Thoredim
+excerpt: After too long, we finally arrive somewhere.
 background: "/img/posts/ches.jpg"
 ---
 
