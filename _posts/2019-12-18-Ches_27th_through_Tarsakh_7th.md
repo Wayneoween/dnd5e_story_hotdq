@@ -28,7 +28,7 @@ After a few days of uneventful travel, we heard a strange growling at night.
 
 ### 4th of Tarsakh
 
-The seventh day of our trip. We reached the dreaded "Mere of Dead Men", an
+The seventh day of our trip. We reached the dreaded "{% include glossary_link.html title="Mere of Dead Men" %}", an
 unholy stinking swamp. The weather has dropped since {% include glossary_link.html title="Waterdeep" %} and the road
 gradually became a mere trail. So this is the path between Neverwinter and
 {% include glossary_link.html title="Waterdeep" %}. The group has tried their best to get Ardret suspicious of the
