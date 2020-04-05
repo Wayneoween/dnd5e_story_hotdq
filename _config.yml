@@ -10,12 +10,15 @@ author: m_sc
 twitter_username: Wayneoween
 github_username: Wayneoween
 
-permalink: /:title/
+permalink:     /:title/
+paginate:      7
+paginate_path: "/posts/page:num/"
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-paginate
 
   # https://codepen.io/yoannhel/pen/sJpDj
   # This needs to be done! :-)
