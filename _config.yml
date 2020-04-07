@@ -1,10 +1,9 @@
-title: The F* Five!
-email: hotdq+dnd@cle.ar.it
-description: >- # this means to ignore newlines until "baseurl:"
-  Checking out some dragons. And those undead over there. Also banging some doors.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hotdq.dndaux.de" # the base hostname & protocol for your site, e.g. http://example.comemail:              your-email@example.com
-author: m_sc
+title:       The F* Five!
+email:       hotdq+dnd@cle.ar.it
+description: Checking out some dragons. And those undead over there. Also banging some doors.
+baseurl:     "" # the subpath of your site, e.g. /blog
+url:         "https://hotdq.dndaux.de" # the base hostname & protocol for your site, e.g. http://example.comemail:              your-email@example.com
+author:      m_sc
 
 # Social Profiles
 twitter_username: Wayneoween
