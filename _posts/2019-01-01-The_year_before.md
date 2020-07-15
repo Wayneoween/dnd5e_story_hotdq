@@ -24,12 +24,12 @@ Phandalin, Finn intimately and repeatedly bonded with the local Barmaid.
 
 In Phandalin we also met Sildar Hallwinter, who told us about the dwarf Gundren
 Rockseeker who, with his two brothers Tharden and Nundro planned to re-open the
-legendary Wave Echo Cave and reestablish the area, and Phandalin with it, as a
+legendary {% include glossary_link.html title="Wave Echo Cave" %} and reestablish the area, and Phandalin with it, as a
 place of fortune. Sildar belongs to the {% include glossary_link.html title="Lord's Alliance" %}. His guild-brother
 Iarno Albrek, turned evil and was the one who founded the
 Redbrands, under the Mentorship of the {% include glossary_link.html title="Black Spider" %}, a major evil presence in
 the area. The Black spider was also the one that captured Gundren Rockseeker
-since he was looking for the Forge of Spells inside the Wave Echo Cave, which
+since he was looking for the Forge of Spells inside the {% include glossary_link.html title="Wave Echo Cave" %}, which
 is still active, as we learned from a diary we found raiding the Redbrands' lair.
 
 On the way to our next adventure, we stumbled over an old structure in which a
@@ -69,7 +69,7 @@ After all this adventuring, we decided it is finally time to pick a name for
 our group. "The Five," "Five guys" was eventually dismissed in favor of "The F*
 Five", a malleable name that can be adjusted to any occasion.
 
-Finally, we make it to the fabled Wave Echo Cave. Close to the Entrance, we
+Finally, we make it to the fabled {% include glossary_link.html title="Wave Echo Cave" %}. Close to the Entrance, we
 found the corpse of Tharden, one of the three Rockseeker brothers. Fighting our
 way through poisonous funghi, skeletons, Buckbears and Shapeshifters, we
 encountered the {% include glossary_link.html title="Black Spider" %}, a dragonborn. We learned that he wanted to build
