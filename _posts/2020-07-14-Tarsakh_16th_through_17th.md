@@ -31,7 +31,7 @@ gauntlet for some pointers, and we learned the following:
 - The "House of thousand faces" is a tavern where you find many shady people, and some of Kayjas guild members
 - Plus the rumor that the dragon cultists assemble in the east. This was not the first time we heard about this and it wouldn't be the last.
 
-First stop: The blacksmith! A Minothaur called Danlion Steelskull. We sold
+First stop: The blacksmith! A Minotaur called _Danlion Steelskull_. We sold
 various small items, some Elven Chain for 1000 GP. The Dragon Scale Armor
 that {% include glossary_link.html title="Shan" %} carried fetched an incredible 10.000 Gold! This meant +1 Studded
 Armor for Kayja and Fynn, and +1 Splint Armor for Posmet and {% include glossary_link.html title="Thoredim" %}. {% include glossary_link.html title="Posmet" %}
@@ -41,7 +41,7 @@ for equipment. A sight to behold!
 Kayja sold the gems she has held onto for 1000 GP, with the help of a little
 no-so-subtle intimidation.
 
-At the House of Thousand Faces, Kayja talked to the bartenders and patrons in
+At the _House of Thousand Faces_, Kayja talked to the bartenders and patrons in
 Thieves Cant, which sounds like non-consequential small-talk about the
 weather to the rest of the group. A readhead halfling woman recognized Kayja
 as "Victor's Girl" and told her to deposit 5 GP at a known location to
@@ -54,11 +54,11 @@ could summon it at will.
 tower, which initially appeared to have no doors, we got led by an apprentice
 to master Sumsquat (Kumquat?). As {% include glossary_link.html title="Posmet" %} handed over his stone, the wizard
 embarked on a longer ramble - what we could gather is that it might be an
-artefact of "The Great Old Ones", who "infested the starts" (=became stars?).
+artefact of "The Great Old Ones", who "infested the stars" (became stars?).
 One of them eventually fell, it's name was Hardar. If we want to know more
 about it, we need to find a creature named "Aboleth", a creature that houses
 in deep waters and underground caverns. {% include glossary_link.html title="Posmet" %} seemed to have - not
-consciously - entered into a bargain with the being when it picked up the
+consciously - entered into a bargain with the being when he picked up the
 sphere. This might be the reason his skin color changed from red to, well,
 skin-color. Where he got the stone, there were two more depressions, as if
 there had been others. Are there two more people out there that carry a
@@ -71,8 +71,8 @@ Lord. We met a level 3 member of the {% include glossary_link.html title="Order 
 dwarven woman. {% include glossary_link.html title="Thoredim" %} almost lost his composure, but he didn't! We heard
 the same story about the Cultists assembling out east, with the added info
 that they have made a deal with Cloud Giants, for one of their flying
-castles. Tysra was waiting for news from Onthar Frume (who sheltered
-ShanLiang in Longsaddle and introduced {% include glossary_link.html title="Thoredim" %} to the order), since he is
+castles. Tysra was waiting for news from {% include glossary_link.html title="Ontharr Frume" %} (who sheltered
+Shànliáng in Longsaddle and introduced {% include glossary_link.html title="Thoredim" %} to the order), since he is
 travelling to {% include glossary_link.html title="Waterdeep" %}.
 
 Should we go there too?
