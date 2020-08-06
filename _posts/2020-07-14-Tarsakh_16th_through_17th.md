@@ -3,7 +3,7 @@ layout: post
 title: Tarsakh 16th and 17th
 author: Thoredim
 excerpt: What comes next?
-background: "/img/posts/tarsakh10th.jpg"
+background: "/img/posts/neverwinter.jpg"
 ---
 
 # Tarsakh 16
