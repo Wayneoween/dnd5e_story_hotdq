@@ -30,7 +30,7 @@ After a few days of uneventful travel, we heard a strange growling at night.
 
 The seventh day of our trip. We reached the dreaded "{% include glossary_link.html title="Mere of Dead Men" %}", an
 unholy stinking swamp. The weather has dropped since {% include glossary_link.html title="Waterdeep" %} and the road
-gradually became a mere trail. So this is the path between Neverwinter and
+gradually became a mere trail. So this is the path between {% include glossary_link.html title="Neverwinter" %} and
 {% include glossary_link.html title="Waterdeep" %}. The group has tried their best to get Ardret suspicious of the
 cultists, but to no avail. He has thus become suspicious to the group himself -
 is the cooperating with the cultists after all? The cultists meanwhile had

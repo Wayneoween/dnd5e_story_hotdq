@@ -15,7 +15,7 @@ nasty looking weapon - and is owed a dragon kill!
 
 # Tarsakh 17
 
-We arrived in Neverwinter, Kayja's hometown. The city was destroyed by a
+We arrived in {% include glossary_link.html title="Neverwinter" %}, {% include glossary_link.html title="Kaiya" %}'s hometown. The city was destroyed by a
 volcano eruption and has since been rebuilt. The southeast district is ripped
 open by a chasm in the ground that leads to the Underdark, home to many vile
 creatures.
@@ -34,16 +34,16 @@ gauntlet for some pointers, and we learned the following:
 First stop: The blacksmith! A Minotaur called _Danlion Steelskull_. We sold
 various small items, some Elven Chain for 1000 GP. The Dragon Scale Armor
 that {% include glossary_link.html title="Shan" %} carried fetched an incredible 10.000 Gold! This meant +1 Studded
-Armor for Kayja and Fynn, and +1 Splint Armor for Posmet and {% include glossary_link.html title="Thoredim" %}. {% include glossary_link.html title="Posmet" %}
+Armor for Kaiya and Fynn, and +1 Splint Armor for Posmet and {% include glossary_link.html title="Thoredim" %}. {% include glossary_link.html title="Posmet" %}
 seemed to have forgotten his grief for a while while shopping and bargaining
 for equipment. A sight to behold!
 
-Kayja sold the gems she has held onto for 1000 GP, with the help of a little
-no-so-subtle intimidation.
+{% include glossary_link.html title="Kaiya" %} sold the gems she has held onto for 1000 GP, with the help of a little
+not-so-subtle intimidation.
 
-At the _House of Thousand Faces_, Kayja talked to the bartenders and patrons in
+At the _House of Thousand Faces_, {% include glossary_link.html title="Kaiya" %} talked to the bartenders and patrons in
 Thieves Cant, which sounds like non-consequential small-talk about the
-weather to the rest of the group. A readhead halfling woman recognized Kayja
+weather to the rest of the group. A readhead halfling woman recognized {% include glossary_link.html title="Kaiya" %}
 as "Victor's Girl" and told her to deposit 5 GP at a known location to
 receive more infos on the Dragon Cult. Also in the bar, Posmet and {% include glossary_link.html title="Thoredim" %}
 worked out that their parents' common deaths must have occured around 20
@@ -65,9 +65,9 @@ there had been others. Are there two more people out there that carry a
 sphere like this one?
 
 Next, the Shining Serpent Inn, full of guards, paladins and so on. We learned
-(once more) that the {% include glossary_link.html title="High Road" %} between {% include glossary_link.html title="Waterdeep" %} and Neverwinter is almost
+(once more) that the {% include glossary_link.html title="High Road" %} between {% include glossary_link.html title="Waterdeep" %} and {% include glossary_link.html title="Neverwinter" %} is almost
 finished thanks to the great lord Neverember. Must be quite the fellow, this
-Lord. We met a level 3 member of the {% include glossary_link.html title="Order of the Gauntlet" %}, "Tysra", a
+Lord. We met a level 3 member of the {% include glossary_link.html title="Order of the Gauntlet" %}, "{% include glossary_link.html title="Tysra" %}", a
 dwarven woman. {% include glossary_link.html title="Thoredim" %} almost lost his composure, but he didn't! We heard
 the same story about the Cultists assembling out east, with the added info
 that they have made a deal with Cloud Giants, for one of their flying

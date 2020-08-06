@@ -7,7 +7,7 @@ background: "/img/posts/before.jpg"
 background_pos: 50% 30%
 ---
 
-We met each other in a small town called Phandalin, on the northern part of the
+We met each other in a small town called {% include glossary_link.html title="Phandalin" %}, on the northern part of the
 Sword Coast. The village was haunted by a local gang of bandits called
 "Redbrands", recognizable by their scarlet cloaks. We had a few run-ins with
 them and eventually freed the town of their presence, which led us to some
@@ -19,12 +19,12 @@ Garaele gave us a comb to bring to a Banshee called Agatha that resided
 nearby in exchange for her to answer one question for us: The location of the
 Spellbook of Wizard "Bowgentle". She told us, but this information was no use
 to us. After paying her a visit, we cleaned out the Orc Encampment and
-returned to Phandalin to collected our reward of 100 Gold. On each visit to
-Phandalin, Finn intimately and repeatedly bonded with the local Barmaid.
+returned to {% include glossary_link.html title="Phandalin" %} to collected our reward of 100 Gold. On each visit to
+{% include glossary_link.html title="Phandalin" %}, Finn intimately and repeatedly bonded with the local Barmaid.
 
-In Phandalin we also met Sildar Hallwinter, who told us about the dwarf Gundren
+In {% include glossary_link.html title="Phandalin" %} we also met Sildar Hallwinter, who told us about the dwarf Gundren
 Rockseeker who, with his two brothers Tharden and Nundro planned to re-open the
-legendary {% include glossary_link.html title="Wave Echo Cave" %} and reestablish the area, and Phandalin with it, as a
+legendary {% include glossary_link.html title="Wave Echo Cave" %} and reestablish the area, and {% include glossary_link.html title="Phandalin" %} with it, as a
 place of fortune. Sildar belongs to the {% include glossary_link.html title="Lord's Alliance" %}. His guild-brother
 Iarno Albrek, turned evil and was the one who founded the
 Redbrands, under the Mentorship of the {% include glossary_link.html title="Black Spider" %}, a major evil presence in

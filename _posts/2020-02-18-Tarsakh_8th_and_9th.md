@@ -16,8 +16,8 @@ the people and places we encountered on our adventures in the previous weeks:
 - **Purple clothing:** A dragon cultists of higher importance
 
 While resting for the night, {% include glossary_link.html title="Thoredim" %} got woken by a vision. The voice of
-Harbin Wester, Mayor of Phandalin came to him in the dark. He said that
-Phandalin was endangered by a white dragon (-> Ice Breath, likes the cold) and
+Harbin Wester, Mayor of {% include glossary_link.html title="Phandalin" %} came to him in the dark. He said that
+{% include glossary_link.html title="Phandalin" %} was endangered by a white dragon (-> Ice Breath, likes the cold) and
 implored our group to help. We decided to head north as soon as we solved the
 situation at the castle. The dragon encounters do seem to become more. Speaking
 of which, the black dragon at the edge of the mere is called {% include glossary_link.html title="Voaraghamanthar" %}.
