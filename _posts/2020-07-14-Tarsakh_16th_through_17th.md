@@ -28,7 +28,7 @@ gauntlet for some pointers, and we learned the following:
 - For Wizards: "House of Knowledge" in the Protector's Enclave" or "Cloak Tower" to the East
 - General shopping: The Docks or "Shining Knights and Armor" at the edge of the graveyard
 - Sell gems: "Many coins" money lending
-- The "House of thousand faces" is a tavern where you find many shady people, and some of Kayjas guild members
+- The "House of thousand faces" is a tavern where you find many shady people, and some of Kaiyas guild members
 - Plus the rumor that the dragon cultists assemble in the east. This was not the first time we heard about this and it wouldn't be the last.
 
 First stop: The blacksmith! A Minotaur called _Danlion Steelskull_. We sold
