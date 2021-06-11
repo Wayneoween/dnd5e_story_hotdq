@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Mirtul 5 & 6
+title: Mirtul 5th and 6th
 author: Thoredim
 excerpt: At Blackstaff Tower
-background: https://mygamenightblog.files.wordpress.com/2020/03/city-street-banner-1.jpg?w=1920&h=502&crop=1
+background: "/img/posts/waterdeep.jpg"
 ---
 
 # Mirtul 5
