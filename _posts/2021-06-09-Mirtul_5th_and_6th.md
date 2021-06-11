@@ -6,7 +6,7 @@ excerpt: At Blackstaff Tower
 background: "/img/posts/waterdeep.jpg"
 ---
 
-# Mirtul 5
+# Mirtul 5th
 
 In the evening of the day of the council meeting, the group discussed what
 needed to be done before setting out to the Sea of Moving Ice. We decided to go
