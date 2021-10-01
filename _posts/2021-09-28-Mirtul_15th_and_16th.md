@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Mirtul 15 + 16
+title: Mirtul 15th and 16th
 author: Thoredim
 excerpt: Exploring under Oyaviggaton
 background: "/img/posts/glacier.jpg"
 ---
 
-# Mirtul 15
+# Mirtul 15th
 
 Here we were, just won the battle with the Trolls when we suddenly heard
 WanRenMi's voice. As we followed it to another room, we found in it the oddest
@@ -55,7 +55,7 @@ person living here who seemed to be a Wizard. {% include glossary_link.html titl
 - Haste
 - Protection from Energy
 
-# Mirtul 16
+# Mirtul 16th
 
 After our rest, we explored the rest of the cave. We found a room full of
 treasures that we decided to save for last, a set of stairs leading up (possibly
