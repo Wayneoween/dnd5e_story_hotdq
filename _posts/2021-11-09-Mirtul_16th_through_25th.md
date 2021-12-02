@@ -50,9 +50,10 @@ only partially succeeded in re-erecting it. {% include glossary_link.html title=
 We finally arrived in {% include glossary_link.html title="Waterdeep" %} with a long list of errands to run and
 businesses to attend to. Looks like we would be here for quite a while...
 
-### Open Quests
+---
+## Open Quests
 
-#### {% include glossary_link.html title="Waterdeep" %}
+### {% include glossary_link.html title="Waterdeep" %}
 
 - Find Zhentarim to acquire the white dragon mask. Go to “Earls Tavern” in {% include glossary_link.html title="Waterdeep" %} to find them.
 - Talk to Remalia Haventree (Leading Rep of the "{% include glossary_link.html title="Harpers" %}" at the council. Told us to come see her again when we're back)
@@ -62,7 +63,7 @@ businesses to attend to. Looks like we would be here for quite a while...
 - (T): Find out more about Nemdam Hillfinger
 - (T): Price for silent splint armor?
 
-#### General
+### General
 
 - Black dragon by the mountains near Naeritar
 - Find Draakhorn (probably in Severin's posession now)
