@@ -2,8 +2,8 @@
 layout: post
 title: Kythorn 3rd through 14th
 author: Thoredim
-excerpt: In wizard Diderius' lair
-background: "/img/posts/serpent-hills.jpg"
+excerpt: Elves and Dragons in the Misty Forest
+background: "/img/posts/misty_forest.jpg"
 ---
 
 # Kythorn 3rd through 11th
