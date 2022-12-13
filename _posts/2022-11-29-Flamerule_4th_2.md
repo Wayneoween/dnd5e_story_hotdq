@@ -2,7 +2,7 @@
 layout: post
 title: Flamerule 4th
 author: Thoredim
-excerpt: Tiamat rising, part 2
+excerpt: It Ends
 background: "/img/posts/the_end.png"
 background_pos: 10% 0%
 ---
