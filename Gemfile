@@ -1,8 +1,8 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
+gem 'front_matter_parser'
 gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-theme-clean-blog'
-gem 'front_matter_parser'
 
-gem "webrick", "~> 1.7"
-gem "nokogiri", "~> 1.13.4"
+gem 'nokogiri'
+gem 'webrick'
