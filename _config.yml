@@ -27,3 +27,6 @@ collections:
     output: false
   quests:
     output: false
+
+sass:
+  style: compressed
